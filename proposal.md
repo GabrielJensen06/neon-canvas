@@ -6,7 +6,7 @@ https://github.com/GabrielJensen06/neon-canvas
 ## Description
 Neon canvas will be an interactive digital art program that allows the user to create colorful glowing artwork using their mouse. The program will have a brush feature that will be editable and also the program will have particle effects giving artists a creative way to experiment with light, color, and motion.
 
-Features
+## Features
 
 Interactive Drawing
 
@@ -32,7 +32,7 @@ Save Artwork
 
 Users will be able to save their finish creations and make them pngs. 
 
-Challenges
+## Challenges
 
 Learning how to create different brush shapes and textures using Pygame's drawing functions and randomized patterns.
 
@@ -41,3 +41,13 @@ Implementing an eraser tool that removes specific parts of artwork without clear
 Creating glowing and fading particle effects using transparency while maintaining smooth animation performance.
 
 Learning how to save the digital canvas as a PNG image without including unwanted interface elements.
+
+## Outcomes
+
+Ideal Outcome
+
+The ideal outcome is a drawing program with full functioning brushes colors which should be fully customizable and  saving and erasing features as well as the ability to save a png image of the artwork. If time permits, an undo feature will also be implemented to improve the drawing experience.
+
+Minimal Viable Outcome
+
+The minimum viable outcome is a drawing program with minimal brush customization and ability to pick brush size and color. it would include a basic erasing feature and ability to clear the canvas, making it so users can create and modify artwork if advanced effects or image exporting can't be completed.
