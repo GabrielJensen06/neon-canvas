@@ -51,3 +51,37 @@ The ideal outcome is a drawing program with full functioning brushes colors whic
 Minimal Viable Outcome
 
 The minimum viable outcome is a drawing program with minimal brush customization and ability to pick brush size and color. it would include a basic erasing feature and ability to clear the canvas, making it so users can create and modify artwork if advanced effects or image exporting can't be completed.
+
+## Milestones
+
+Week 1 
+
+Set up the Python and Pygame application window and drawing canvas.
+
+Implement mouse-controlled drawing and basic color and brush-size selection.
+
+Develop the smooth and square brush styles.
+
+Week 2 
+
+Implement the scratchy brush using randomized patterns and textures.
+
+Add the eraser tool and clear-canvas functionality.
+
+Test and refine the brush controls and drawing experience.
+
+Week 3 
+
+Implement glowing particle effects around brush strokes.
+
+Add the ability to export completed artwork as PNG images.
+
+Test and optimize particle effects and image-saving functionality.
+
+Week 4
+
+Implement optional features such as undo if time permits.
+
+Test and debug the application, ensuring the main features work reliably.
+
+Complete the documentation, final demonstration, and GitHub submission before December 6 at 11:59 PM.
