@@ -31,3 +31,13 @@ Drawing will generate small, colorful particles around the brush. These particle
 Save Artwork
 
 Users will be able to save their finish creations and make them pngs. 
+
+Challenges
+
+Learning how to create different brush shapes and textures using Pygame's drawing functions and randomized patterns.
+
+Implementing an eraser tool that removes specific parts of artwork without clearing the entire canvas.
+
+Creating glowing and fading particle effects using transparency while maintaining smooth animation performance.
+
+Learning how to save the digital canvas as a PNG image without including unwanted interface elements.
